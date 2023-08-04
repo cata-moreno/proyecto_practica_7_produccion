@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproyecto_practica_7"]=self["webpackChunkproyecto_practica_7"]||[]).push([[443],{507:function(t,n,u){u.r(n),u.d(n,{default:function(){return i}});var a=function(){var t=this;t._self._c;return t._m(0)},c=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],r=u(1),e={},s=(0,r.Z)(e,a,c,!1,null,null,null),i=s.exports}}]);
+//# sourceMappingURL=about.fbdc4276.js.map
